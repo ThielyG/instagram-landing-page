@@ -1,2 +1,2 @@
-# dio-recriando-instagram
-Developing Instagram's landing page.
+# instagram-landing-page
+Instagram's landing page (on my mother language Portuguese) using HTML and CSS.
